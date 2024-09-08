@@ -1,7 +1,7 @@
 Hello 🖐️ I'm USS Franck
 =======================================================================================================================================
 
-#### Software developer based in CMR🌍
+#### Software developer based in 🌍CMR
 We do this, not because it's easy, but because we want to make it easy.
 
 * 👀 Looking for a SD position in Europe (London, Paris or Canada) for Nov 2025.
