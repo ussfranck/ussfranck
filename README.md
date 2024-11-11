@@ -4,7 +4,7 @@ Hello 🖐️ I'm USS.
 #### Software developer based in 🌍CMR
 We do this, not because it's easy, but because we want to make it easy
 
-* 👀 Looking for a SD position in Europe (London, Paris, Canada or Suisse) for Nov 2025
+* 👀 Looking for a SD position in Europe (London, Paris, Quebec, Lausane) for Nov 2025
 * 🖥️  Technologies: Rust, TypeScript
 * 🌱  I'm learning Flutter
 * 🤝  I'm open to collaborating on Open source projet(Web | Low Level Rust Program)
