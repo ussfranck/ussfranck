@@ -1,7 +1,7 @@
 Good Morning 👦🏾🤝 I'm USS.
 =======================================================================================================================================
 
-#### Software developer based in 🌍CMR
+#### SOFTWARE DEVELOPER FROM CAMEROON
 We do this, not because it's easy, but because we want to make it easy
 
 * 👀 Looking for a SD position in Europe (London, Paris, Montreal, Lausane) for Nov 2025
