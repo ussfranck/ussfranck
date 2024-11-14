@@ -8,4 +8,4 @@ We do this, not because it's easy, but because we want to make it easy
 * 🖥️  Technologies: Rust, TypeScript
 * 🌱  I'm learning Flutter
 * 🤝  I'm open to collaborating on Open Source Projet(Web | Low Level Rust Program)
-* Contact Me via [Website](https://uss-franckmekoulou.web.app/) | [Linkedin](https://www.linkedin.com/in/franck-mekoulou/) or [Email](mailto:franckmekoulou.dev@hotmail.com)
+* Contact me via [Website](https://uss-franckmekoulou.web.app/) | [Linkedin](https://www.linkedin.com/in/franck-mekoulou/) or [Email](mailto:franckmekoulou.dev@hotmail.com)
