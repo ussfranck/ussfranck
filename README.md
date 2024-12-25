@@ -1,8 +1,8 @@
-Bonjour! 👦🏾🤝 I'm USS Franck
+Bonjour! 👦🏾🤝 I'm USS
 =======================================================================================================================================
 
 #### SOFTWARE DEVELOPER FROM CAMEROON
-We do this, not because it's easy, but because we want to make it easy...
+We do this, not because it's easy, but because we want to make it easy.
 
 * 👀 Looking for a SWE position in Europe (London, Paris, Lausanne) for the 11 month of 2025
 * 🖥️ Technologies: Rust, TypeScript, Dart..
