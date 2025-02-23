@@ -1,7 +1,7 @@
 Bonjour ! 👦🏾🤝 I'm USS
 =======================================================================================================================================
 
-#### SOFTWARE DEVELOPER FROM CAMEROON • 2025
+#### SOFTWARE DEVELOPER FROM CAMEROON
 We do this, not because it's easy, but because we want to make it easy.
 
 * 👀 Maybe looking for a SWE position in UE (London, Paris, Lausanne) for the 11/2025.
