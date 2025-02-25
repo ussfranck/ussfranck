@@ -8,6 +8,6 @@ We do this, not because it's easy, but because we want to make it easy.
 * 🖥️ Technologies: TypeScript → Rust → Dart.
 * 🌱 ML Skills Incoming.
 * 🤝 Ready to collaborating on Open Source Projet: Web, Mobile and Rust LLP(Low Level Programing).
-* 🪽 Ahead Of Private Project → Dorset.
+* 🪽 Ahead Of Private Project → ~Dorset.
 * Contact me via [Website](https://uss-franckmekoulou.web.app/) → [Linkedin](https://www.linkedin.com/in/franck-mekoulou/) → [Email](mailto:franckmekoulou.dev@hotmail.com).
 
