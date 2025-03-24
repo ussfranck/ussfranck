@@ -8,6 +8,6 @@ We do this, not because it's easy, but because we want to make it easy.
 * 🖥️ Technologies: TS → Rust → Dart.
 * 🌱 ML Skills Incoming.
 * 🤝 Ready to collaborating on open source project with: ~Rust.
-* 🪽 Ahead of → &copy; Dorset.
+* 🪽 &copy; 2025 Dorset.
 * Contact me via [Website](https://uss-franckmekoulou.web.app/) → [Linkedin](https://www.linkedin.com/in/franck-mekoulou/) → [Email](mailto:franckmekoulou.dev@hotmail.com)
 
