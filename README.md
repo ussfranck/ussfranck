@@ -2,7 +2,7 @@ What's up? 👦🏾🤝 I'am USS
 =======================================================================================================================================
 
 #### # WE • ARE • SOFTWARE ENGINEER...
-We do this, not because it's easy, but because we want to make it easy. Incoming
+We do this, not because it's easy, but because we want to make it easy.
 
 * 👀 Maybe looking for a SDE position in UK • US for the 11/2025.
 * 🖥️ Technologies: TS → Rust → Dart.
