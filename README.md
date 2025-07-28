@@ -1,7 +1,7 @@
 Hey There👋🏼👨🏽‍🦱 I'am USS
 ======================================================================================================================================
 
-#### # WE • ARE • SOFTWARE ENGINEER
+#### # WE • ARE • SOFTWARE ENGINEER.
 We do this, not because it's easy, but because we want to make it easy.
 
 * 👀 Maybe looking for a SDE position in UK • US for the 11/2025.
