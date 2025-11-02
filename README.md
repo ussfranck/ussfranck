@@ -1,6 +1,3 @@
-Hey there👋🏼👨🏽‍🦱 I'am USS. 
-======================================================================================================================================
-
 #### # WE • ARE • SOFTWARE ENGINEER...
 We do this, not because it's easy, but because we want to make it easy...
 
