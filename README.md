@@ -1,4 +1,4 @@
-#### # WE • ARE • SOFTWARE ENGINEER.
+#### # WE • ARE • SOFTWARE DEVELOPER.
 We do this, not because it's easy, but because we want to make it easy...
 
 * 🤔 Maybe looking for a SDE position in UK • Dubai for the 11/2025.
